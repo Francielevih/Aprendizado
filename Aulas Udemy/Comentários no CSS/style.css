@@ -1,0 +1,10 @@
+div {
+    width:  200px;
+    height: 200px;
+
+    background: darkslategray;
+    opacity: 0.8;
+    box-shadow: 5px 5px 4px #333;
+}
+
+/* Comentários */
